@@ -126,7 +126,7 @@ public class BMICalculator {
 	}
 	
 	//finally, using the BMI and the BMI category, determine and print the correct BMI
-	//and BMI category
+	//and BMI category 
     public static void displayBmi(double BMI, int category)
     {
         System.out.println("Your BMI is: " + BMI);
